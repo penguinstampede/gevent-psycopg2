@@ -13,7 +13,7 @@ setup(
     description='pip-installable package for patching psycopg2 to use gevent',
     author='Zachary Voase',
     author_email='z@dvxhouse.com',
-    url='http://github.com/zacharyvoase/gevent-psycopg2',
+    url='https://github.com/penguinstampede/gevent-psycopg2',
     packages=find_packages(where='lib'),
     py_modules=['gevent_psycopg2'],
     package_dir={'': 'lib'},
